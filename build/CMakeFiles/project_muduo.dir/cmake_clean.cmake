@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "../lib/libproject_muduo.pdb"
+  "../lib/libproject_muduo.so"
+  "CMakeFiles/project_muduo.dir/Accept.o"
+  "CMakeFiles/project_muduo.dir/Accept.o.d"
+  "CMakeFiles/project_muduo.dir/Buffer.o"
+  "CMakeFiles/project_muduo.dir/Buffer.o.d"
+  "CMakeFiles/project_muduo.dir/Channel.o"
+  "CMakeFiles/project_muduo.dir/Channel.o.d"
+  "CMakeFiles/project_muduo.dir/CurrentThread.o"
+  "CMakeFiles/project_muduo.dir/CurrentThread.o.d"
+  "CMakeFiles/project_muduo.dir/DefaultPoller.o"
+  "CMakeFiles/project_muduo.dir/DefaultPoller.o.d"
+  "CMakeFiles/project_muduo.dir/EPollPoller.o"
+  "CMakeFiles/project_muduo.dir/EPollPoller.o.d"
+  "CMakeFiles/project_muduo.dir/EventLoop.o"
+  "CMakeFiles/project_muduo.dir/EventLoop.o.d"
+  "CMakeFiles/project_muduo.dir/EventLoopThread.o"
+  "CMakeFiles/project_muduo.dir/EventLoopThread.o.d"
+  "CMakeFiles/project_muduo.dir/EventLoopThreadPool.o"
+  "CMakeFiles/project_muduo.dir/EventLoopThreadPool.o.d"
+  "CMakeFiles/project_muduo.dir/InetAddress.o"
+  "CMakeFiles/project_muduo.dir/InetAddress.o.d"
+  "CMakeFiles/project_muduo.dir/Logger.o"
+  "CMakeFiles/project_muduo.dir/Logger.o.d"
+  "CMakeFiles/project_muduo.dir/Poller.o"
+  "CMakeFiles/project_muduo.dir/Poller.o.d"
+  "CMakeFiles/project_muduo.dir/Socket.o"
+  "CMakeFiles/project_muduo.dir/Socket.o.d"
+  "CMakeFiles/project_muduo.dir/TcpConnection.o"
+  "CMakeFiles/project_muduo.dir/TcpConnection.o.d"
+  "CMakeFiles/project_muduo.dir/TcpServer.o"
+  "CMakeFiles/project_muduo.dir/TcpServer.o.d"
+  "CMakeFiles/project_muduo.dir/Thread.o"
+  "CMakeFiles/project_muduo.dir/Thread.o.d"
+  "CMakeFiles/project_muduo.dir/Timestamp.o"
+  "CMakeFiles/project_muduo.dir/Timestamp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/project_muduo.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
